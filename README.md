@@ -1,4 +1,4 @@
-# A Landing Page
+# Island Resort Landing Page
 
 This is a static landing page. No backend attached.
 
